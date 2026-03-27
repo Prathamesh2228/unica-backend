@@ -1560,7 +1560,7 @@ const createAllItems = (users) => {
       condition: "good",
       type: "trade",
       tradePreference: "Antique Nettipattam elephant headgear or temple bronze collection",
-      images: ["https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800"],
+      images: ["https://res.cloudinary.com/dwilrie9p/image/upload/v1774577998/fast_tlkn89.webp"],
       seller: getRandomSeller('Elite Antiquities'),
       status: 'active'
     },
